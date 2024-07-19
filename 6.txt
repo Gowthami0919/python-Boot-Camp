@@ -1,0 +1,26 @@
+6. take list of elements count no. of even and off 
+
+take space separated input from a user and print alternative elements 
+
+
+
+
+7- your given with a comma separated natural numbers 1 to 10 print only the even no's
+
+7.2- how many even no. are there in given above question 
+
+7.3-  your given with a space separated integer list find no. of even elements and no. of odd elements in a given list
+
+8- given an space separated integer list find the avg of elements present in the even index 
+ 
+
+9.1- write a program to find the area of the circle
+
+9.2- write a program to find perimeter of a circle
+ 
+9.3- write a program to find area of a triangle
+
+9.4- write a program to find perimeter of a triangle
+
+finding a square root of a number
+
